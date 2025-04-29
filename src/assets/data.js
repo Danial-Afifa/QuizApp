@@ -1,0 +1,36 @@
+export const data = [{
+    question: "Android system licensed by :",
+    option1: "Apache/MIT",
+    option2: "Sourceforge",
+    option3: "OSS",
+    option4: "Google",
+    ans: 1,
+}, {
+    question: "The term APK in Android is an abbreviation for",
+    option1: "Application Programming Kit",
+    option2: "Android Packages Toolkit",
+    option3: "Android Package Kit",
+    option4: "None of the above",
+    ans: 3,
+}, {
+    question: "Which of the following methods can be checked after the onStop() method?",
+    option1: "onRestart()",
+    option2: "onDestroy()",
+    option3: "onPause()",
+    option4: "a&b",
+    ans: 4,
+}, {
+    question: "Which of the following features expands elements within a table format?",
+    option1: "stretchColumns",
+    option2: "Layout_Span",
+    option3: "Layout_weight",
+    option4: "All of the above",
+    ans: 4,
+}, {
+    question: "How to store heavy structured data in Android?",
+    option1: "Using the Cursor",
+    option2: "Using the SQlite database.",
+    option3: "Use shared preferences",
+    option4: "Not possible",
+    ans: 2,
+}, ];
